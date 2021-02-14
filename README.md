@@ -10,10 +10,11 @@ This is somewhere between calculated and brute force.
 Option 2. works better for noisy data.  
 I suspect a combination of the 2 tactics would yield the best results.
 
-An example from running with noisy data: `./main.py 50 0.5 1 radius`
-![screenshot](https://github.com/mrdunk/BestFitCircle/blob/master/assets/BestFitCircle_screenshot.png)
+Run `main.py` with no options for a simple test.  
+Here's an example from running with noisy data: `./main.py 50 0.5 1 radius`  
+![screenshot](https://github.com/mrdunk/BestFitCircle/blob/master/assets/BestFitCircle_screenshot.png?raw=true)
 
-This needs Python3 and the Matplotlib library to display output.
+This needs Python3 and the Matplotlib library to display output.  
 `python -m pip install -U matplotlib`
 
 It is not optimized at all. I threw it together in an evening after discussing the concept with a friend who is interested in CNC machine CAM software.
