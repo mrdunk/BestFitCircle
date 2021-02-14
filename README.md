@@ -12,7 +12,9 @@ I suspect a combination of the 2 tactics would yield the best results.
 
 Run `main.py` with no options for a simple test.  
 Here's an example from running with noisy data: `./main.py 50 0.5 1 radius`  
-![screenshot](../main/assets/BestFitCircle_screenshot.png?raw=true)
+![screenshot](../main/assets/BestFitCircle_screenshot.png?raw=true)  
+More points: `./main.py 200 0.25 0.5`  
+![screenshot](../main/assets/BestFitCircle_screenshot_more.png?raw=true)
 
 This needs Python3 and the Matplotlib library to display output.  
 `python -m pip install -U matplotlib`
