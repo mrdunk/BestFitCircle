@@ -167,7 +167,7 @@ def averageRadius(center: Point, points: List[Point]) -> float:
 def help() -> None:
     print()
     print("Usage:")
-    print("", sys.argv[0], "[NUMBER_OF_POINTS_IN_CIRCLE] [RATIO_OF_POINTS_DISPLAYED] [RATIO_OF_JITTER]")
+    print("", sys.argv[0], "[NUMBER_OF_POINTS_IN_CIRCLE] [RATIO_OF_POINTS_DISPLAYED] [RATIO_OF_JITTER] [RADIUS/ANGLE]")
     exit()
 
 
