@@ -11,7 +11,7 @@ Option 2. works better for noisy data.
 I suspect a combination of the 2 tactics would yield the best results.
 
 An example from running with noisy data: `./main.py 50 0.5 1 radius`
-![https://github.com/mrdunk/BestFitCircle/blob/master/assets/BestFitCircle_screenshot.png](https://github.com/mrdunk/BestFitCircle/blob/master/assets/BestFitCircle_screenshot.png)
+![screenshot](https://github.com/mrdunk/BestFitCircle/blob/master/assets/BestFitCircle_screenshot.png)
 
 This needs Python3 and the Matplotlib library to display output.
 `python -m pip install -U matplotlib`
